@@ -1,0 +1,51 @@
+# Python 파일
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# 환경 설정 파일
+.env
+*.env
+
+# 가상 환경 디렉토리 (venv, virtualenv 등)
+venv/
+.venv/
+
+# 운영 체제에 따라 생성되는 파일들
+.DS_Store
+Thumbs.db
+
+# IDE 및 에디터 관련 파일
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
+*.dll
+*.log
+*.swp
+*.out
+*.class
+
+# 빌드 결과물 디렉토리
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+
+# 압축 파일
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# 데이터베이스 파일
+*.sqlite
+*.db
