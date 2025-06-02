@@ -49,3 +49,6 @@ dist/
 # 데이터베이스 파일
 *.sqlite
 *.db
+
+# 기타 리소스
+videos/
